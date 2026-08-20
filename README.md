@@ -1,7 +1,7 @@
 <a href="https://github.com/vikas-shirsath/vikas-shirsath">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark_theme.png">
-    <img alt="Vikas Shirsath's GitHub Profile README" src="./light_theme.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_theme.svg">
+    <img alt="Vikas Shirsath's GitHub Profile README" src="./light_theme.svg">
   </picture>
 </a>
 
